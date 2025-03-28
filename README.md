@@ -1,7 +1,7 @@
 # Hands-On-Image-Processing-with-Python-Second-Edition
 Hands-On Image Processing with Python, Second Edition, Published by Packt
 
-### book Chapters
+### Book Chapters
 
 1.	Getting Started with Digital Image Processing
 2.	Image Manipulation
