@@ -1,6 +1,25 @@
 # Hands-On-Image-Processing-with-Python-Second-Edition
 Hands-On Image Processing with Python, Second Edition, Published by Packt
 
+### book Chapters
+
+1.	Getting Started with Digital Image Processing
+2.	Image Manipulation
+3.	More Image Manipulation
+4.	Sampling & Fourier Transform 
+5.	Convolution & Frequency Domain Filtering
+6.	Image Enhancement 
+7.	Image Enhancements using Derivatives 
+8.	Image Restoration
+9.	Morphological Image Processing
+10.	Extracting Image Features and Descriptors  
+11.	Image Segmentation 
+12.	Classical Machine Learning Methods 
+13.	Deep Learning in Image Processing - Image Classification 
+14.	Deep Learning in Image Processing - Object Detection, and more
+15.	Additional Problems in Image Processing 
+
+
 ### Setting up different Image Processing Libraries in Python
 
 The next few paragraphs describe how to install different image processing libraries and
