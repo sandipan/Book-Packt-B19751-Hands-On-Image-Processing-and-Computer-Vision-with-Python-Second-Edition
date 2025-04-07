@@ -15,8 +15,8 @@ Hands-On Image Processing with Python, Second Edition, Published by Packt
 10.	Extracting Image Features and Descriptors  
 11.	Image Segmentation 
 12.	Classical Machine Learning Methods 
-13.	Deep Learning - Image Classification 
-14.	Deep Learning - Object Detection, and more
+13.	Deep Learning Methods - Image Classification 
+14.	Deep Learning Methods - Object Detection, and more
 15.	Generative AI - GAN, Diffusion, and more
 16.	Additional Problems in Image Processing & Computer Vision
 
