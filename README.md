@@ -12,7 +12,7 @@ Hands-On Image Processing with Python, Second Edition, Published by Packt
 7.	More Image Enhancement using Derivatives 
 8.	Image Restoration
 9.	Morphological Image Processing
-10.	Extracting Image Features and Descriptors  
+10.	Image Regsitration - Extracting Features and Descriptors  
 11.	Image Segmentation 
 12.	Classical Machine Learning Methods 
 13.	Deep Learning Methods - Image Classification 
