@@ -9,7 +9,7 @@ Hands-On Image Processing with Python, Second Edition, Published by Packt
 4.	Sampling & Fourier Transform 
 5.	Convolution & Frequency Domain Filtering
 6.	Image Enhancement 
-7.	Image Enhancements using Derivatives 
+7.	More Image Enhancement using Derivatives 
 8.	Image Restoration
 9.	Morphological Image Processing
 10.	Extracting Image Features and Descriptors  
