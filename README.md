@@ -138,3 +138,13 @@ install scipy with the command !pip install scipy
 
 For more information on installing Jupyter please
 refer to: http://jupyter.readthedocs.io/en/latest/install.html   
+
+### Code Reproducibility
+
+To ensure reproduciblity, a requirements.txt file has been added corresponding to each chapter, to the book’s GitHub repository. 
+
+To install all required packages with compatible versions, run:
+
+pip install -r requirements.txt 
+
+This ensures all dependencies match the versions used in the book's code examples.
