@@ -7,18 +7,19 @@ Hands-On Image Processing with Python, Second Edition, Published by Packt
 2.	Image Manipulation
 3.	More Image Manipulation
 4.	Sampling & Fourier Transform 
-5.	Convolution & Frequency Domain Filtering
-6.	Image Enhancement 
-7.	More Image Enhancement using Derivatives 
-8.	Image Restoration
-9.	Morphological Image Processing
-10.	Image Regsitration - Extracting Features and Descriptors  
-11.	Image Segmentation 
-12.	Classical Machine Learning Methods 
-13.	Deep Learning Methods - Image Classification 
-14.	Deep Learning Methods - Object Detection, and more
-15.	Generative AI - GAN, Diffusion, and more
-16.	Additional Problems in Image Processing & Computer Vision
+5.	Convolution & Spatial / Frequency Domain Filtering
+6.	Frequency Domain Filtering
+7.	Image Enhancement 
+8.	More Image Enhancement using Derivatives 
+9.	Image Restoration
+10.	Morphological Image Processing
+11.	Image Regsitration - Extracting Features and Descriptors  
+12.	Image Segmentation 
+13.	Classical Machine Learning Methods 
+14.	Deep Learning Methods - Image Classification 
+15.	Deep Learning Methods - Object Detection, and more
+16.	Generative AI - GAN, Diffusion, and more
+17.	Additional Problems in Image Processing & Computer Vision
 
 
 ### Setting up different Image Processing Libraries in Python
