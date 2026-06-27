@@ -12,14 +12,10 @@ Hands-On Image Processing with Python, Second Edition, Published by Packt
 7.	Image Enhancement 
 8.	More Image Enhancement using Derivatives 
 9.	Image Restoration
-10.	Morphological Image Processing
-11.	Image Regsitration - Extracting Features and Descriptors  
-12.	Image Segmentation 
-13.	Classical Machine Learning Methods 
-14.	Deep Learning Methods - Image Classification 
-15.	Deep Learning Methods - Object Detection, and more
-16.	Generative AI - GAN, Diffusion, and more
-17.	Additional Problems in Image Processing & Computer Vision
+10.	Image Segmentation - From Classical to Deep Learning Methods
+11.	More Image Segmentation with Deep Learning
+12.	Image Classification and Object Detection
+13.	Generative AI in Image Processing and Computer Vision
 
 
 ### Setting up different Image Processing Libraries in Python
