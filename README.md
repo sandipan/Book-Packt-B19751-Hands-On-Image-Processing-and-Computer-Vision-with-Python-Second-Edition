@@ -22,7 +22,7 @@ Sandipan Dey</p>
 <details open>
   <summary><h2>About the book</summary>
 <a href="https://www.packtpub.com/en-us/product/hands-on-image-processing-and-computer-vision-with-python-9781837636235">
-<img src="https://content.packt.com/B19751/cover_image_small.jpg" alt="Hands-On Image Processing and Computer Vision with Python, Second Edition" height="256px" align="right">
+<img src="https://content.packt.com/_/image/original/B19751/cover_image.jpg?version=1782828351" alt="Hands-On Image Processing and Computer Vision with Python, Second Edition" height="256px" align="right">
 </a>
 
 Analyzing and understanding visual data has become essential in modern applications such as healthcare, security, remote sensing, manufacturing, and digital media. This book provides a hands-on guide to image processing and computer vision using Python, following a practical approach that bridges theory with implementation.
