@@ -1,0 +1,191 @@
+3FYUT.jpg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 2\images\3FYUT.jpg
+3FYUT.jpg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 1\images\3FYUT.jpg
+USc6e.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 3\images\USc6e.png
+ade2.jpg	NOT FOUND
+blocks.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Hands-On-Image-Processing-with-Python-Second-Edition\Chapter02\images\blocks.png
+blocks.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 2\images\blocks.png
+blocks.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 1\images\blocks.png
+board.jpg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 1\images\board.jpg
+books.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 8\images\books.png
+books.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 7\images\books.png
+books.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 3\images\books.png
+books.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 3\Chapter3\images\books.png
+books.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 2\images\books.png
+cat-551554_640.jpg	NOT FOUND
+chess_distorted.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 2\images\chess_distorted.png
+chess_distorted.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 1\images\chess_distorted.png
+chess_distorted.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 1\old_files\chess_distorted.png
+class_samples.png	NOT FOUND
+clock.jpg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Hands-On-Image-Processing-with-Python-Second-Edition\Chapter03\images\clock.jpg
+clock.jpg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Hands-On-Image-Processing-with-Python-Second-Edition\Chapter02\images\clock.jpg
+clock.jpg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 7\images\clock.jpg
+clock.jpg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 6\images\clock.jpg
+clock.jpg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 3\images\clock.jpg
+clock.jpg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 3\Chapter3\images\clock.jpg
+clock.jpg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 2\images\clock.jpg
+clock.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Hands-On-Image-Processing-with-Python-Second-Edition\Chapter04\images\clock.png
+clock.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 2\images\clock.png
+ct_segmentation_rotation.gif	NOT FOUND
+ct_segmentation_rotation.gif	NOT FOUND
+cvae_sandal2sneaker.png	NOT FOUND
+dad.jpg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Hands-On-Image-Processing-with-Python-Second-Edition\Chapter07\images\low_light_inp\dad.jpg
+einstein.jpg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\opencv_dnn\einstein.jpg
+einstein.jpg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Hands-On-Image-Processing-with-Python-Second-Edition\Chapter02\images\einstein.jpg
+einstein.jpg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Hands-On-Image-Processing-with-Python-Second-Edition\Chapter01\images\einstein.jpg
+einstein.jpg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 7\images\einstein.jpg
+einstein.jpg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 6\images\einstein.jpg
+einstein.jpg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 2\images\einstein.jpg
+einstein.jpg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 1\images\einstein.jpg
+epoch_{epoch:03d}.png	NOT FOUND
+epoch_{epoch}.png	NOT FOUND
+example3_{dtype}_{format}_{pfov}_{fov}.jpg	NOT FOUND
+fishy.jpeg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 2\images\fishy.jpeg
+fishy.jpeg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 1\images\fishy.jpeg
+fixed_mask.png	NOT FOUND
+flowers.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Hands-On-Image-Processing-with-Python-Second-Edition\Chapter07\images\flowers.png
+flowers.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 12\images\flowers.png
+flowers.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 11\images\flowers.png
+flowers.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 1\images\flowers.png
+four_corner_manifold.png	NOT FOUND
+frog.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Hands-On-Image-Processing-with-Python-Second-Edition\Chapter09\InstructIR\images\frog.png
+frog.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 7\InstructIR\images\frog.png
+frog.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 7\InstructIR\images\gradio_demo_images\frog.png
+frog.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 4\tutorials\InstructIR-main\images\frog.png
+frog.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 4\tutorials\InstructIR-main\images\gradio_demo_images\frog.png
+girl.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\opencv_dnn\OmniGen2-main\example_images\girl.png
+girl.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Hands-On-Image-Processing-with-Python-Second-Edition\Chapter01\images\girl.png
+girl.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 9\images\girl.png
+girl.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 9\IP-Adapter-main\assets\images\girl.png
+girl.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 9\IP-Adapter\assets\images\girl.png
+girl.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 8\images\girl.png
+girl.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 7\images\girl.png
+girl.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 6\images\girl.png
+girl.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 3\images\girl.png
+girl.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 3\Chapter3\images\girl.png
+girl.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 2\images\girl.png
+girl.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 1\images\girl.png
+goal1.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 2\images\goal1.png
+goal1.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 1\images\goal1.png
+goal2.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 2\images\goal2.png
+goal2.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 1\images\goal2.png
+goal_diff.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 2\images\goal_diff.png
+goal_diff.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 1\images\goal_diff.png
+hand_*.jpg	NOT FOUND
+hill.jpg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 2\images\hill.jpg
+hill.jpg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 1\images\hill.jpg
+hill.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Hands-On-Image-Processing-with-Python-Second-Edition\Chapter01\images\hill.png
+hill.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 2\images\hill.png
+hill.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 1\images\hill.png
+hill_alpha.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 2\images\hill_alpha.png
+hill_alpha.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 1\images\hill_alpha.png
+hill_dark.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 2\images\hill_dark.png
+hill_dark.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 1\images\hill_dark.png
+house.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Tutorial\house.png
+house.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Hands-On-Image-Processing-with-Python-Second-Edition\Chapter05\images\house.png
+house.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Hands-On-Image-Processing-with-Python-Second-Edition\Chapter04\images\house.png
+house.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Hands-On-Image-Processing-with-Python-Second-Edition\Chapter03\images\house.png
+house.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 3\images\house.png
+house.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 3\Chapter3\images\house.png
+house.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 2\images\house.png
+house.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 1\images\house.png
+inference_output.png	NOT FOUND
+inpaint.png	NOT FOUND
+inpaint_mask.png	NOT FOUND
+ishihara2.png	NOT FOUND
+lab.png	NOT FOUND
+latent_traversal.png	NOT FOUND
+lena_adaptive16_orig.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 2\images\lena_adaptive16_orig.png
+lena_adaptive16_orig.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 1\images\lena_adaptive16_orig.png
+lena_adaptive16_remapped.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 2\images\lena_adaptive16_remapped.png
+lena_adaptive16_remapped.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 1\images\lena_adaptive16_remapped.png
+lena_color.jpg	NOT FOUND
+loss_curve.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 8\mmdetection\resources\loss_curve.png
+man_horse.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 8\seg\man_horse.png
+model_yuv.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 1\images\model_yuv.png
+mom.jpg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Hands-On-Image-Processing-with-Python-Second-Edition\Chapter12\images\gallery\mom\mom.jpg
+monalisa_sim.jpg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Hands-On-Image-Processing-with-Python-Second-Edition\Chapter02\images\monalisa_sim.jpg
+monalisa_sim.jpg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 1\images\monalisa_sim.jpg
+morph.gif	NOT FOUND
+morph.gif	NOT FOUND
+old_photo.jpg	NOT FOUND
+origin.png	NOT FOUND
+out_{:03d}.png	NOT FOUND
+output_dehazed.jpg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 5\images\output_dehazed.jpg
+parrot.jpg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Tutorial\jpg2png\parrot.jpg
+parrot.jpg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Hands-On-Image-Processing-with-Python-Second-Edition\Chapter08\images\parrot.jpg
+parrot.jpg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Hands-On-Image-Processing-with-Python-Second-Edition\Chapter07\images\parrot.jpg
+parrot.jpg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Hands-On-Image-Processing-with-Python-Second-Edition\Chapter06\images\parrot.jpg
+parrot.jpg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Hands-On-Image-Processing-with-Python-Second-Edition\Chapter05\images\parrot.jpg
+parrot.jpg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Hands-On-Image-Processing-with-Python-Second-Edition\Chapter03\images\parrot.jpg
+parrot.jpg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Hands-On-Image-Processing-with-Python-Second-Edition\Chapter02\images\parrot.jpg
+parrot.jpg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 9\contents\parrot.jpg
+parrot.jpg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 9\images\parrot.jpg
+parrot.jpg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 8\images\parrot.jpg
+parrot.jpg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 7\images\parrot.jpg
+parrot.jpg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 5\images\parrot.jpg
+parrot.jpg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 4\images\parrot.jpg
+parrot.jpg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 4\tutorials\InstructIR-main\flagged\image\eb05f08e7e8002e13391\parrot.jpg
+parrot.jpg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 3\images\parrot.jpg
+parrot.jpg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 2\images\parrot.jpg
+parrot.jpg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 1\images\parrot.jpg
+parrot.jpg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Tutorial\jpg2png\parrot.jpg
+parrot.jpg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Hands-On-Image-Processing-with-Python-Second-Edition\Chapter08\images\parrot.jpg
+parrot.jpg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Hands-On-Image-Processing-with-Python-Second-Edition\Chapter07\images\parrot.jpg
+parrot.jpg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Hands-On-Image-Processing-with-Python-Second-Edition\Chapter06\images\parrot.jpg
+parrot.jpg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Hands-On-Image-Processing-with-Python-Second-Edition\Chapter05\images\parrot.jpg
+parrot.jpg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Hands-On-Image-Processing-with-Python-Second-Edition\Chapter03\images\parrot.jpg
+parrot.jpg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Hands-On-Image-Processing-with-Python-Second-Edition\Chapter02\images\parrot.jpg
+parrot.jpg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 9\contents\parrot.jpg
+parrot.jpg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 9\images\parrot.jpg
+parrot.jpg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 8\images\parrot.jpg
+parrot.jpg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 7\images\parrot.jpg
+parrot.jpg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 5\images\parrot.jpg
+parrot.jpg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 4\images\parrot.jpg
+parrot.jpg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 4\tutorials\InstructIR-main\flagged\image\eb05f08e7e8002e13391\parrot.jpg
+parrot.jpg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 3\images\parrot.jpg
+parrot.jpg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 2\images\parrot.jpg
+parrot.jpg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 1\images\parrot.jpg
+parrot_alpha.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Hands-On-Image-Processing-with-Python-Second-Edition\Chapter02\images\parrot_alpha.png
+parrot_alpha.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 2\images\parrot_alpha.png
+parrot_alpha.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 1\images\parrot_alpha.png
+parrot_yuv.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Hands-On-Image-Processing-with-Python-Second-Edition\Chapter02\images\parrot_yuv.png
+parrot_yuv.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 2\images\parrot_yuv.png
+parrot_yuv.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 1\images\parrot_yuv.png
+parrot_{compress_level}.png	NOT FOUND
+parrot_{num_colors}.png	NOT FOUND
+parrot_{quality}.jpg	NOT FOUND
+peppers.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 5\images\peppers.png
+prompt_{idx:02d}.png	NOT FOUND
+query.png	NOT FOUND
+rain-020.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Hands-On-Image-Processing-with-Python-Second-Edition\Chapter09\InstructIR\images\rain-020.png
+rain-020.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 7\InstructIR\images\rain-020.png
+rain-020.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 4\tutorials\InstructIR-main\images\rain-020.png
+retouched.jpg	NOT FOUND
+retouched_expanded.jpg	NOT FOUND
+reverse_diffusion.gif	NOT FOUND
+reverse_diffusion.gif	NOT FOUND
+rhino.jpg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Hands-On-Image-Processing-with-Python-Second-Edition\Chapter05\images\rhino.jpg
+rhino.jpg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Hands-On-Image-Processing-with-Python-Second-Edition\Chapter04\images\rhino.jpg
+rhino.jpg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 7\images\rhino.jpg
+rhino.jpg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 4\images\rhino.jpg
+rhino.jpg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 3\images\rhino.jpg
+rhino.jpg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 3\Chapter3\images\rhino.jpg
+rhino.jpg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 2\images\rhino.jpg
+sea_beach.jpg	NOT FOUND
+sneaker_to_boot.gif	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Hands-On-Image-Processing-with-Python-Second-Edition\Chapter13\images\sneaker_to_boot.gif
+tigers.jpeg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Hands-On-Image-Processing-with-Python-Second-Edition\Chapter05\images\tigers.jpeg
+tigers.jpeg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 9\contents\tigers.jpeg
+tigers.jpeg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 7\images\tigers.jpeg
+tigers.jpeg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 4\images\tigers.jpeg
+tigers.jpeg	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 3\images\tigers.jpeg
+training_curves.png	NOT FOUND
+training_progress.gif	NOT FOUND
+tsne_images.png	NOT FOUND
+tsne_latent.png	NOT FOUND
+umbc.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Tutorial\umbc.png
+umbc.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 9\contents\umbc.png
+umbc.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 3\images\umbc.png
+umbc.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 3\Chapter3\images\umbc.png
+umbc.png	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 2\images\umbc.png
+world.gif	D:\My Books\Packt\Hands-on-Image_Processing 2nd Edition\Chapter 1\images\world.gif
+{fname}_axial.png	NOT FOUND
