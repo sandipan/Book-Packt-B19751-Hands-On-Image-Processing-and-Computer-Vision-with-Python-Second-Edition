@@ -96,6 +96,17 @@ Advanced chapters introduce CNNs, Vision Transformers, transformer-based segment
 
 
 <details open>
+  <summary><h2>Animations from the Book</summary>
+
+--- | --- | ---
+![](Chapter13/images/dalle3.gif) | ![](Chapter11/images/vtk_seg_liver.gif) | ![](Chapter11/images/seg_cityscapes.gif)
+![](Chapter11/images/sam.gif) | ![](Chapter13/images/morph.gif) | ![](Chapter12/images/socrates.gif)
+
+</details>
+
+
+
+<details open>
   <summary><h2>Requirements for this book</summary>
 
 ## Technical Requirements
