@@ -98,9 +98,23 @@ Advanced chapters introduce CNNs, Vision Transformers, transformer-based segment
 <details open>
   <summary><h2>Animations from the Book</summary>
 
---- | --- | ---
-![](Chapter13/images/dalle3.gif) | ![](Chapter11/images/vtk_seg_liver.gif) | ![](Chapter11/images/seg_cityscapes.gif)
-![](Chapter11/images/sam.gif) | ![](Chapter13/images/morph.gif) | ![](Chapter12/images/socrates.gif)
+![](Chapter13/images/dalle3.gif) 
+![](Chapter11/images/vtk_seg_liver.gif) 
+![](Chapter11/images/seg_cityscapes.gif)
+![](Chapter11/images/sam.gif) 
+![](Chapter13/images/morph.gif) 
+![](Chapter12/images/socrates.gif)
+![](Chapter08/images/parrot_LPF.gif)
+![](Chapter05/images/ff.gif)
+![](Chapter04/images/gauss_fft.gif)
+![](Chapter03/images/lena_wave_2d.gif)
+![](Chapter03/images/lena_wave_horz.gif)
+![](Chapter03/images/rotating_cube.gif)
+![](Chapter03/images/zoom_in_out.gif)
+![](Chapter03/images/rot.gif)
+![](Chapter03/images/parrot_swirl.gif)
+![](Chapter01/images/red_cars.gif)
+![](Chapter01/images/leaves.gif)
 
 </details>
 
