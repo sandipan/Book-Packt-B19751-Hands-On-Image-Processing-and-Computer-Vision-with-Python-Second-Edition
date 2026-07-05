@@ -166,8 +166,25 @@ To get the most out of this book, ensure you have the following background and s
 _Sandipan Dey_ is a Data Scientist with a wide range of interests in related areas, including machine learning, computer vision, image processing, and deep learning. He has been working in several areas of applied machine learning for the past few years. Sandipan earned his MS in Computer Science from UMBC and his BE in Computer Science from JU. He has published papers in several international data mining conferences and journals. He has authored several books on image processing with Python. He has also completed online specializations in machine learning, image processing, AI, and related areas through MOOCs.
 
 
-
 </details>
+
+
+<details>
+  <summary><h2>📚 Other Books by the Author</h2></summary>
+
+
+If you find this repository useful, you may also be interested in the author's previous books on image processing and computer vision:
+
+- **Hands-On Image Processing with Python**  
+  GitHub: https://github.com/PacktPublishing/Hands-On-Image-Processing-with-Python
+
+- **Python Image Processing Cookbook**  
+  GitHub: https://github.com/PacktPublishing/Python-Image-Processing-Cookbook
+
+These repositories contain complete source code, examples, datasets, and implementations accompanying the respective books. :contentReference[oaicite:0]{index=0}
+</details>
+
+
 <details>
   <summary><h2>Other Related Books</h2></summary>
 <ul>
