@@ -181,10 +181,10 @@ If you find this repository useful, you may also be interested in the author's p
 - **Python Image Processing Cookbook**  
   GitHub: https://github.com/PacktPublishing/Python-Image-Processing-Cookbook
 
-- 🔹 **Image Processing Masterclass with Python**  
+- **Image Processing Masterclass with Python**  
   https://github.com/sandipan/Book-BPB-11-Image-Processing-Masterclass-with-Python
 
-- 🔹 **Image Processing and Computer Vision Masterclass with Python (2nd Edition)**
+- **Image Processing and Computer Vision Masterclass with Python (2nd Edition)**
   https://github.com/sandipan/Book-BPB-600-Image-Processing-and-Computer-Vision-Masterclass-with-Python
 
 
